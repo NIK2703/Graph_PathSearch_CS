@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\bin\Debug\Graph_SearchPath.exe
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\bin\Debug\Graph_SearchPath.pdb
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.Properties.Resources.resources
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.exe
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.pdb
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.Form1.resources
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.exe
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.pdb
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\bin\Debug\Graph_SearchPath.exe
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\bin\Debug\Graph_SearchPath.pdb
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.Form1.resources
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.Properties.Resources.resources
+C:\Users\User\Google Диск\4 семестр\Проектирование ПО\Graph_SearchPath\Graph_SearchPath\obj\x86\Debug\Graph_SearchPath.csproj.GenerateResource.Cache
